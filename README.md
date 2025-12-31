@@ -1,4 +1,4 @@
-<p align="right">
+<p align="left">
   <a href="./README.md"><img src="https://img.shields.io/badge/Language-English-blue?style=flat-square" alt="English"></a>
   <a href="./README_KR.md"><img src="https://img.shields.io/badge/언어-한국어-white?style=flat-square" alt="Korean"></a>
 </p>
