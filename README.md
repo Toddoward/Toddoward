@@ -4,6 +4,7 @@
 </p>
 
 > 🌱 I’m currently learning about **AI Engineering**!
+>
 > 👯 I’m looking to collaborate as a **Front-End Developer**, **Game Developer**, or **Game 3D Artist**!
 
 # 👋 Hi there, I'm Lim Seunghwan!
