@@ -3,43 +3,68 @@
   <a href="./README_KR.md"><img src="https://img.shields.io/badge/언어-한국어-white?style=flat-square" alt="Korean"></a>
 </p>
 
-# 👋 Hi there, I'm Lim Seunghwan!
+> 🌱 I’m currently learning about **AI Engineering**!
+> 👯 I’m looking to collaborate as a **Front-End Developer**, **Game Developer**, or **Game 3D Artist**!
 
-### 🎯 Current Focus & Goals
-> 🌱 I’m currently learning about **AI engineering**!
-> 👯 I’m looking to collaborate on **Game Development**, **Game Art**(3D, 2D)!
+# 👋 Hi there, I'm Lim Seunghwan!
 
 ---
 
 ## 🚀 About Me
-**I am a developer and an game artist who [Main Strength/Value, e.g., builds scalable systems and values clean code].**
-* 💻 I enjoy solving complex problems through efficient algorithms.
-* 🛠️ Experienced in [Skill 1], [Skill 2], and [Skill 3].
+**I am a Front-End Developer and a Game Artist who bridges the gap between creative visual design and technical implementation.**
+* 💻 I enjoy building **user-friendly interfaces** by blending intuitive UX with efficient algorithms.
+* 🛠️ Experienced in **game development**, creating high-quality **3D graphic assets**, and designing immersive visuals.
 * 📚 Constantly learning new technologies to stay ahead in the fast-evolving tech world.
+
+---
+
+## 🛠 Skills
+### 👨‍💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+</p>
+
+### 🖌️ Design
+<p align="left">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Substance%203D%20Painter-%238BC34A.svg?style=flat-square&logo=Adobe%20Substance%203D%20Painter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Substance%203D%20Designer-%238BC34A.svg?style=flat-square&logo=Adobe%20Substance%203D%20Designer&logoColor=white"/>
+</p>
+
+### 🎮 Game Engines
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white"/>
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🌐 Web Development
-* **[Project Name 1]**: A brief one-sentence introduction of what this project does.
+* **Video to WebP Converter**: A high-performance web-based tool for converting videos to WebP animations.
 <details>
   <summary>🔍 View Details & Preview</summary>
   <br>
-  <img src="https://via.placeholder.com/600x300" alt="Project Preview" width="100%">
-  <p>Detailed description of the project. Built with React and Node.js. Solved X problem by implementing Y.</p>
-  <a href="https://github.com/your-id/repo-link">
+  <img src="https://via.placeholder.com/600x300" alt="Project Preview" width="600">
+  <p>A web tool for converting MP4 videos to WebP with advanced customization. The backend is built with <b>Flask</b> and the conversion engine utilizes <b>OpenCV</b>.</p>
+  <a href="https://github.com/Toddoward/video_to_webp_converter">
     <img src="https://img.shields.io/badge/Go_to_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
   </a>
 </details>
 
-### 🤖 Data Science / AI
-* **[Project Name 2]**: One-sentence summary of the AI model or data analysis project.
+### 📱 Mobile Application
+* **Serenitree**: An AI chatbot application and LLM network for trauma support.
 <details>
   <summary>🔍 View Details & Preview</summary>
   <br>
-  <img src="https://via.placeholder.com/600x300" alt="Project Preview" width="100%">
-  <p>Detailed explanation of the dataset, model performance, and insights gained.</p>
+  <img src="https://via.placeholder.com/600x300" alt="Project Preview" width="600">
+  <p>A companion AI chatbot for trauma survivors. Privacy is secured using a local SQLite DB, PIN, and biometric authentication. Powered by Flutter and FastAPI.</p>
   <a href="https://github.com/your-id/repo-link">
     <img src="https://img.shields.io/badge/Go_to_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo">
   </a>
@@ -47,19 +72,12 @@
 
 ---
 
-## 🛠 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
+## 📫 Contacts
+#### 📧 E-mail: come112008@naver.com
 
 ---
 
 ## 📈 Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=oddoward&show_icons=true&theme=radical)
-
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour-id&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today+Visitors&edge_flat=false" alt="Hits">
+  <img src="https://komarev.com/ghpvc/?username=Toddoward&color=blue&style=flat-square&label=VISITORS" alt="Visitor Count">
 </p>
