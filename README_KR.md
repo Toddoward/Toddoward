@@ -17,11 +17,14 @@
 * 🛠️ **게임 개발**, 고품질 **3D 그래픽 에셋 제작**, 몰입감 있는 비주얼 디자인 경험이 있습니다.
 * 📚 빠르게 변화하는 기술 환경에서 앞서나가기 위해 항상 새로운 기술을 학습합니다.
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Toddoward&layout=compact&theme=github_dark)
+
 ---
 
 ## 🛠 보유 기술
 ### 👨‍💻 프로그래밍 언어
 <p align="left">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
@@ -79,6 +82,8 @@
 ---
 
 ## 📈 활동 통계
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Toddoward&color=blue&style=flat-square&label=VISITORS" alt="Visitor Count">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Toddoward&color=blue&style=for-a-badge&label=VISITORS" alt="Visitor Count">
 </p>
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Toddoward&theme=github_dark)

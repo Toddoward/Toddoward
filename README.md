@@ -17,11 +17,14 @@
 * 🛠️ Experienced in **game development**, creating high-quality **3D graphic assets**, and designing immersive visuals.
 * 📚 Constantly learning new technologies to stay ahead in the fast-evolving tech world.
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Toddoward&layout=compact&theme=github_dark)
+
 ---
 
 ## 🛠 Skills
 ### 👨‍💻 Programming Languages
 <p align="left">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
@@ -79,6 +82,8 @@
 ---
 
 ## 📈 Stats
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Toddoward&color=blue&style=flat-square&label=VISITORS" alt="Visitor Count">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Toddoward&color=blue&style=for-a-badge&label=VISITORS" alt="Visitor Count">
 </p>
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Toddoward&theme=github_dark)
