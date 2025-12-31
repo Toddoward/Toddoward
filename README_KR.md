@@ -1,4 +1,4 @@
-<p align="right">
+<p align="left">
   <a href="./README.md"><img src="https://img.shields.io/badge/Language-English-white?style=flat-square" alt="English"></a>
   <a href="./README_KR.md"><img src="https://img.shields.io/badge/언어-한국어-blue?style=flat-square" alt="Korean"></a>
 </p>
@@ -27,12 +27,13 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
 </p>
 
-### 🖌️ 디자인 도구
+### 🖌️ 디자인
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black"/>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Substance%203D%20Painter-%238BC34A.svg?style=flat-square&logo=Adobe%20Substance%203D%20Painter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Substance%203D%20Designer-%238BC34A.svg?style=flat-square&logo=Adobe%20Substance%203D%20Designer&logoColor=white"/>
 </p>
 
 ### 🎮 게임 엔진
